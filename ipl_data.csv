@@ -1,0 +1,51 @@
+mid,date,venue,bat_team,bowl_team,batsman,bowler,striker,non-striker,runs,wickets,overs,runs_last_5,wickets_last_5,total
+1,2024-05-01,M Chinnaswamy Stadium,PBKS,KKR,KL Rahul,Deepak Chahar,Sanju Samson,Shubman Gill,73,3,12.1,54,1,190
+2,2024-04-03,Barsapara Stadium,MI,LSG,Virat Kohli,Deepak Chahar,Sanju Samson,KL Rahul,62,1,14.5,52,0,207
+3,2024-04-08,Barsapara Stadium,LSG,PBKS,KL Rahul,Bhuvneshwar Kumar,Devdutt Padikkal,Devdutt Padikkal,53,3,12.8,57,3,205
+4,2024-03-24,Chepauk,PBKS,GT,David Warner,Jasprit Bumrah,Suryakumar Yadav,Rohit Sharma,37,0,14.9,35,2,150
+5,2024-04-01,Arun Jaitley Stadium,LSG,PBKS,KL Rahul,Deepak Chahar,Shubman Gill,Rohit Sharma,98,0,8.8,54,1,142
+6,2024-03-30,Narendra Modi Stadium,RR,KKR,Sanju Samson,Mohammed Siraj,David Warner,David Warner,61,2,5.9,52,3,158
+7,2024-05-01,Wankhede Stadium,CSK,LSG,Rohit Sharma,Yuzvendra Chahal,Suryakumar Yadav,KL Rahul,91,0,6.3,39,3,164
+8,2024-04-08,Chepauk,MI,DC,David Warner,Ravi Bishnoi,Faf du Plessis,Rohit Sharma,52,0,6.7,54,2,211
+9,2024-04-11,Arun Jaitley Stadium,LSG,KKR,Ruturaj Gaikwad,Jasprit Bumrah,KL Rahul,David Warner,86,2,5.8,44,1,186
+10,2024-04-24,Chepauk,RCB,LSG,Suryakumar Yadav,Harshal Patel,Sanju Samson,Shubman Gill,39,3,9.4,57,0,184
+11,2024-04-07,MA Chidambaram Stadium,MI,LSG,Devdutt Padikkal,Harshal Patel,Sanju Samson,Shubman Gill,89,1,5.1,39,2,180
+12,2024-04-01,Arun Jaitley Stadium,PBKS,LSG,Faf du Plessis,Jasprit Bumrah,Ruturaj Gaikwad,Ruturaj Gaikwad,61,2,8.0,54,3,152
+13,2024-03-25,Arun Jaitley Stadium,RCB,RR,Suryakumar Yadav,Trent Boult,Sanju Samson,Rohit Sharma,61,5,7.0,34,0,150
+14,2024-04-18,M Chinnaswamy Stadium,PBKS,KKR,Faf du Plessis,Ravi Bishnoi,Rohit Sharma,Devdutt Padikkal,84,4,10.9,27,2,182
+15,2024-03-30,Wankhede Stadium,DC,GT,Ruturaj Gaikwad,Arshdeep Singh,KL Rahul,Ruturaj Gaikwad,49,1,6.0,58,2,150
+16,2024-05-11,Narendra Modi Stadium,RR,RCB,Ruturaj Gaikwad,Arshdeep Singh,Sanju Samson,Devdutt Padikkal,64,1,10.9,52,3,184
+17,2024-04-07,Chepauk,RCB,KKR,Shubman Gill,Mohammed Siraj,Sanju Samson,Suryakumar Yadav,84,0,9.4,20,2,214
+18,2024-05-08,Rajiv Gandhi Stadium,KKR,GT,KL Rahul,Trent Boult,Shubman Gill,Rohit Sharma,84,5,10.9,32,0,154
+19,2024-04-12,Barsapara Stadium,GT,KKR,Devdutt Padikkal,Mohammed Siraj,KL Rahul,Ruturaj Gaikwad,36,1,9.9,51,1,172
+20,2024-04-11,M Chinnaswamy Stadium,MI,RCB,Rohit Sharma,Jasprit Bumrah,David Warner,Rohit Sharma,38,0,14.9,37,1,213
+21,2024-03-28,Barsapara Stadium,CSK,SRH,Suryakumar Yadav,Deepak Chahar,KL Rahul,Sanju Samson,97,2,6.7,42,3,149
+22,2024-04-30,Narendra Modi Stadium,RCB,KKR,David Warner,Jasprit Bumrah,Suryakumar Yadav,David Warner,76,3,8.3,42,1,202
+23,2024-04-11,Ekana Stadium,RCB,MI,Devdutt Padikkal,Arshdeep Singh,Virat Kohli,Virat Kohli,78,0,11.7,39,3,198
+24,2024-03-28,Narendra Modi Stadium,DC,RR,Suryakumar Yadav,Yuzvendra Chahal,Rohit Sharma,Faf du Plessis,61,0,12.7,46,2,188
+25,2024-04-17,Wankhede Stadium,MI,RR,Sanju Samson,Trent Boult,Sanju Samson,David Warner,100,3,6.5,42,0,161
+26,2024-03-23,Narendra Modi Stadium,GT,KKR,Shubman Gill,Bhuvneshwar Kumar,Devdutt Padikkal,Shubman Gill,71,5,8.6,21,1,203
+27,2024-04-09,Rajiv Gandhi Stadium,PBKS,SRH,Rohit Sharma,Bhuvneshwar Kumar,Shubman Gill,Ruturaj Gaikwad,46,0,6.1,41,0,196
+28,2024-04-04,Eden Gardens,RCB,KKR,Suryakumar Yadav,Ravi Bishnoi,Rohit Sharma,Suryakumar Yadav,57,2,7.2,45,0,175
+29,2024-05-07,Barsapara Stadium,CSK,KKR,Ruturaj Gaikwad,Rashid Khan,KL Rahul,Faf du Plessis,40,4,5.7,33,2,206
+30,2024-04-23,Chepauk,CSK,PBKS,KL Rahul,Arshdeep Singh,David Warner,Shubman Gill,82,2,10.1,53,2,194
+31,2024-05-06,Rajiv Gandhi Stadium,SRH,KKR,David Warner,Rashid Khan,Rohit Sharma,Sanju Samson,45,0,7.0,41,1,184
+32,2024-04-12,Eden Gardens,DC,LSG,David Warner,Rashid Khan,Ruturaj Gaikwad,Sanju Samson,46,3,10.1,56,0,212
+33,2024-04-15,Arun Jaitley Stadium,RR,MI,Faf du Plessis,Harshal Patel,Suryakumar Yadav,KL Rahul,64,0,12.5,35,2,174
+34,2024-03-26,M Chinnaswamy Stadium,GT,RR,David Warner,Yuzvendra Chahal,Devdutt Padikkal,Sanju Samson,44,1,9.7,50,2,191
+35,2024-04-04,Narendra Modi Stadium,KKR,DC,Sanju Samson,Jasprit Bumrah,Devdutt Padikkal,Rohit Sharma,59,3,10.2,36,0,176
+36,2024-04-24,Eden Gardens,LSG,PBKS,Sanju Samson,Rashid Khan,Devdutt Padikkal,Sanju Samson,50,2,7.6,52,2,192
+37,2024-03-26,Eden Gardens,MI,CSK,KL Rahul,Rashid Khan,David Warner,Sanju Samson,79,4,11.9,55,1,198
+38,2024-03-31,M Chinnaswamy Stadium,KKR,DC,Virat Kohli,Deepak Chahar,David Warner,Rohit Sharma,65,0,13.8,24,2,162
+39,2024-04-13,Arun Jaitley Stadium,PBKS,CSK,Rohit Sharma,Arshdeep Singh,KL Rahul,Virat Kohli,35,4,9.3,22,3,214
+40,2024-04-02,Eden Gardens,RR,DC,David Warner,Jasprit Bumrah,Suryakumar Yadav,Ruturaj Gaikwad,33,5,11.0,38,3,209
+41,2024-04-21,Ekana Stadium,SRH,GT,Virat Kohli,Jasprit Bumrah,KL Rahul,Shubman Gill,96,3,7.4,24,0,167
+42,2024-03-29,Chepauk,KKR,GT,Faf du Plessis,Trent Boult,Suryakumar Yadav,David Warner,40,0,6.1,20,3,186
+43,2024-05-06,MA Chidambaram Stadium,KKR,LSG,David Warner,Arshdeep Singh,Virat Kohli,Devdutt Padikkal,36,5,13.2,55,1,193
+44,2024-04-24,Ekana Stadium,RR,GT,KL Rahul,Harshal Patel,Shubman Gill,Ruturaj Gaikwad,45,2,7.5,30,3,151
+45,2024-04-12,MA Chidambaram Stadium,KKR,RR,Rohit Sharma,Rashid Khan,Rohit Sharma,Devdutt Padikkal,72,0,9.6,20,1,198
+46,2024-04-24,Eden Gardens,GT,DC,Virat Kohli,Yuzvendra Chahal,KL Rahul,Devdutt Padikkal,88,1,11.4,51,3,164
+47,2024-04-27,Narendra Modi Stadium,GT,CSK,Faf du Plessis,Deepak Chahar,David Warner,Shubman Gill,43,4,12.4,44,2,180
+48,2024-04-08,Ekana Stadium,KKR,DC,Suryakumar Yadav,Ravi Bishnoi,Shubman Gill,Sanju Samson,81,3,6.4,33,1,146
+49,2024-03-28,Narendra Modi Stadium,DC,PBKS,Sanju Samson,Bhuvneshwar Kumar,Suryakumar Yadav,Suryakumar Yadav,51,3,7.2,44,2,148
+50,2024-04-07,Ekana Stadium,KKR,GT,David Warner,Deepak Chahar,Virat Kohli,Virat Kohli,86,1,7.0,56,1,176
